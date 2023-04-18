@@ -2,10 +2,11 @@
 Repo to test how remote branches work
 
 Testing things such as:
--What is creating a "remote" branch
--what fetching is
--if fetching or pulling will overwrite your files that you have local changes on
--pulling vs pushing
+* What is creating a "remote" branch
+* what fetching is
+* if fetching or pulling will overwrite your files that you have local changes on
+* pulling vs pushing
+
 `words`
 
 ```
