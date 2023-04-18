@@ -6,3 +6,11 @@ Testing things such as:
 -what fetching is
 -if fetching or pulling will overwrite your files that you have local changes on
 -pulling vs pushing
+`words`
+
+```
+hello?
+```
+ * bullet point1
+    * b
+ 
