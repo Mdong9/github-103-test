@@ -1,0 +1,3 @@
+this is test2 branch with even more text ahhhhhhhhhhhhhhhhhhhhhhh
+we are going to add different text to see what happens when you merge two branches with the same file
+
